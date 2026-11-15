@@ -1,5 +1,8 @@
 # Bring the Humans — Ad Page for make.fun
 
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/iwandarmawan/bring-the-humans-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/iwandarmawan/bring-the-humans-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 [![Bounty: Bring the humans](https://img.shields.io/badge/bounty-bring--the--humans--01-ff0080)](https://make.fun/bounty/bring-the-humans-01)
 [![Reward: $1,000](https://img.shields.io/badge/reward-%241%2C000-ff0080)](https://make.fun/bounty/bring-the-humans-01)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
